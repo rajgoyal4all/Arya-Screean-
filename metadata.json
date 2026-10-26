@@ -1,0 +1,6 @@
+{
+  "name": "Arya Screen - Customer Management & Order System",
+  "description": "Professional Excel-based Customer Management & Online Order System for Arya Screen (Flex, DTP, Printing & Designing) with WhatsApp Business API and printable receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
